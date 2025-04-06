@@ -10,7 +10,7 @@
 
 ### Technical
 * Full-cycle iOS mobile application development
-* Swift comprehensive from legacy frameworks to cutting-edge technologies (Swift, SwiftUI, Async/Await, Combine)
+* Swift comprehensive knowledge from legacy frameworks to cutting-edge technologies (Swift, SwiftUI, Async/Await, Combine)
 * Application architecture design
 * Technical leadership and mentoring
 * Performance optimization
