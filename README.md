@@ -7,7 +7,7 @@
 * Email: aneli.bob@gmail.com
 
 ## Skills
----
+
 ### Technical
 * Full-cycle iOS mobile application development
 * Application architecture design
@@ -28,8 +28,8 @@
 * English (C1)
 
 ## Professional Experience
-**Total: 8 years 4 months**
----
+* **Total: 8 years 4 months**
+
 ### App In The Air (Travel App)
 **Senior iOS Developer** | March 2021 - August 2024
 * In collaboration with design team, created UI components library for standardaized and fast layout implementation
@@ -51,7 +51,7 @@
 * Participated in the development and optimization of a mobile banking application with over 1 million DAU
 
 ## Pet Projects
----
+
 * AI MCP interface
   * AI Assistant which allows you to fill your journal or personal database in form of dialog
 
