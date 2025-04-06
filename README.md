@@ -30,22 +30,22 @@
 ## Professional Experience
 * **Total: 8 years 4 months**
 
-### App In The Air (Travel App)
+### **App In The Air (Travel App)**
 **Senior iOS Developer** | March 2021 - August 2024
 * In collaboration with design team, created UI components library for standardaized and fast layout implementation
 * Conceived, developed, and implemented an interactive hotel map, validating its effectiveness through increased booking conversion rates
 * Identified overlap between free and premium features and proposed changes that improved monetization
 
-### MentalGrowth (Wellness App)
+### **MentalGrowth (Wellness App)**
 **Senior iOS Developer** | October 2020 - February 2021
 
-### Onza (Outsourcing Company)
+### **Onza (Outsourcing Company)**
 **Senior iOS Developer** | July 2018 - October 2020
 * Served as technical lead for small teams of 2-3 developers, conducting code reviews and mentoring for their professional growth
 * Successfully managed parallel development of multiple applications with different technology stacks
 * Created modular architecture and templates that reduced development time for new projects
 
-### T-Bank (Banking Sector)
+### **T-Bank (Banking Sector)**
 **iOS Developer** | May 2016 - June 2018
 * Experienced significant professional growth working in a strong team of experienced developers, adopting practices and approaches from senior colleagues
 * Participated in the development and optimization of a mobile banking application with over 1 million DAU
