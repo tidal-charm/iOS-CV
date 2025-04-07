@@ -1,6 +1,6 @@
 # Boris Aneli
 **Senior iOS Developer**  
-**Total Experience:** 8 years 4 months
+Total Experience: 8 years 4 months
 
 **Contact Information:**
 * Telegram: [@BorisAneli](https://t.me/BorisAneli)
