@@ -55,6 +55,8 @@ Total Experience: 8 years 4 months
 
 ## Pet Projects
 
+* Tinkering with Flipper Zero
+
 * AI MCP interface
   * AI Assistant which allows you to fill your journal or personal database in form of dialog
 
