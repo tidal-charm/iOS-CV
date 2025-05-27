@@ -1,64 +1,86 @@
 # Boris Aneli
+
 **Senior iOS Developer**  
-Total Experience: 8 years 4 months
+_Total Experience: 8 years 4 months_  
+📧 aneli.bob@gmail.com  
+💬 [Telegram](https://t.me/BorisAneli)
 
-**Contact Information:**
-* Telegram: [@BorisAneli](https://t.me/BorisAneli)
-* Email: aneli.bob@gmail.com
-  
-## Skills
+---
 
-### Technical
-* Full-cycle iOS mobile application development
-* Swift comprehensive knowledge from legacy frameworks to cutting-edge technologies (Swift, SwiftUI, Async/Await, Combine)
-* Application architecture design
-* Technical leadership and mentoring
-* Performance optimization
-* AI integrations and prompt engineering
-* MCP development
+## 🧑‍💻 About
 
-### Product
-* Metrics and data analysis
-* UX/UI optimization
-* A/B testing
-* Cross-functional communication
-* **Course:** GoPractice Product Growth Simulator
+Senior iOS Developer with 8+ years of experience, including technical leadership, large-scale feature development, architecture, and product work.  
+Worked in international startups and mature products with DAU 1M+.  
+I manage the entire mobile development cycle — from discovery to App Store release.  
+Within the team, I take on more than just coding: I shape processes, mentor teammates, and suggest product hypotheses and success metrics.
 
-### Languages
-* Russian (Native)
-* English (C1)
+---
 
-## Professional Experience
-**Total: 8 years 4 months**
-  
-### **App In The Air (Travel App)**
-**Senior iOS Developer** | March 2021 - August 2024
-* In collaboration with design team, created UI components library for standardized and fast layout implementation
-* Conceived, developed, and implemented an interactive hotel map, validating its effectiveness through increased booking conversion rates
-* Identified overlap between free and premium features and proposed changes that improved monetization
+## ⚙️ Skills
 
-### **MentalGrowth (Wellness App)**
-**Senior iOS Developer** | October 2020 - February 2021
-* Collaborated with UX team to optimize onboarding flow, resulting in improved user retention during initial app experience
-* Refactored legacy code to improve app stability and maintainability while adding new functionality
+- Full-cycle iOS mobile application development  
+- Application architecture design  
+- Technical leadership and mentoring  
+- Performance optimization  
+- Testing (Unit / UI)  
+- MapKit, StoreKit
 
-### **Onza (Outsourcing Company)**
-**Senior iOS Developer** | July 2018 - October 2020
-* Served as technical lead for small teams of 2-3 developers, conducting code reviews and mentoring
-* Successfully managed parallel development of multiple applications with different technology stacks
-* Created modular architecture and templates that reduced development time for new projects
+---
 
-### **T-Bank (Banking Sector)**
-**iOS Developer** | May 2016 - June 2018
-* Experienced significant professional growth working in a strong team of experienced developers, adopting practices and approaches from senior colleagues
-* Participated in the development and optimization of a mobile banking application with over 4 million DAU
+## 🧰 Technical Stack
 
-## Pet Projects
+- **Languages:** Swift, Objective-C  
+- **Architectures:** MVP, MVVM, VIPER, CLEAN, Coordinator  
+- **Concurrency:** GCD, Combine, Async/Await  
+- **UI Frameworks:** SwiftUI, UIKit, AsyncDisplayKit, PinLayout, Frame, Constraints
 
-* Tinkering with Flipper Zero
+---
 
-* AI MCP interface
-  * AI Assistant which allows you to fill your journal or personal database in form of dialog
+## 🌍 Languages
 
-* Perfect SwiftUI MV Architecture
-  * Developing a comprehensive, elegant architectural pattern for SwiftUI applications that efficiently addresses all common development scenarios while maintaining code clarity and scalability
+- Russian (Native)  
+- English (C1)
+
+---
+
+## 🧾 Experience
+
+### **App In The Air** – *Senior iOS Developer*  
+**March 2021 – August 2024**
+
+- Brought payment-related bugs and support tickets close to zero by refactoring the payment logic  
+- Implemented custom hotel rendering on the map instead of clustering, with smooth performance on 1000+ points  
+- Accelerated development via reusable UI component library  
+- Increased monetization by identifying and removing overlaps between free and paid features
+
+### **MentalGrowth** – *Senior iOS Developer*  
+**October 2020 – February 2021**
+
+- Built flexible onboarding architecture to enable fast A/B testing  
+- Implemented tutorial with custom animations and automatic transitions  
+- Improved navigation architecture
+
+### **Onza (Outsourcing Studio)** – *iOS Developer*  
+**July 2018 – October 2020**
+
+- Developed apps solo — from scratch to App Store  
+- Acted as technical lead for teams of 2–3 devs  
+- Created templates to reduce time-to-market  
+- Managed several parallel projects with different stacks
+
+### **T-Bank** – *Junior iOS Developer*  
+**May 2016 – June 2018**
+
+- Refactored legacy networking layer in production app (DAU 4M+)  
+- Covered critical flows with UI tests to reduce regression risk
+
+---
+
+## 🛠️ Pet Projects
+
+### **AI MCP Interface**
+AI Assistant to fill a journal or personal DB in dialogue form.
+
+### **Perfect SwiftUI MV Architecture**
+Architecture for SwiftUI that handles all common dev cases with clarity and scalability.
+
